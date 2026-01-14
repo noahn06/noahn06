@@ -46,6 +46,7 @@ Take a look at the quick links below!
 📄 **Resume:** [View/Download](./NguyenNoah.pdf)
 
 📧 **Email Me:** [noahnguyen006@gmail.com](mailto:noahnguyen006@gmail.com)
+
 ---
 
 <!--
