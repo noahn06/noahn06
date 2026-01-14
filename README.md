@@ -1,7 +1,7 @@
 ## Hey what's up! I'm Noah!✌️
 ```
-                                                I am currently working on: 
-                     ▒▒                         
+                                                I am currently working on: [BUSTRACKER AND NOAHNGUYEN BLOG]
+                     ▒▒                         I am learning: Python, JavaScript, RESTful API's
                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒                
             ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒           
           ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒         
@@ -27,6 +27,9 @@
 ▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓▒▒▒▒▒▓▓▓    
 ▓▓▓▓▓▓▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▒▒▒▒▓▓▓▓▓▓▓▓
 ▓▓▓▓▓▓▓▓▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓
+```
+## Contact Me: 
+
 
 <!--
 **noahn06/noahn06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
