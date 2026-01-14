@@ -1,4 +1,19 @@
 ## Hey what's up! I'm Noah!✌️
+Welcome to my GitHub profile! Take a look at my pinned projects below!
+---
+## 🔗 Quick Links
+
+🚀 **Currently Working On:** [Bus Tracker](https://github.com/noahn06/busTracker)
+
+📝 **Read My [Blog](https://noahn06.github.io/noahNguyen/)**
+
+💼 **LinkedIn:** [Noah Nguyen](https://www.linkedin.com/in/nguyennoah/)
+
+📄 **Resume:** [View/Download](./media/resume.pdf)
+
+📧 **Email Me:** [noahnguyen006@gmail.com](mailto:noahnguyen006@gmail.com)
+---
+
 ```
                        ===:::-=:  :...                     // ~ noahn06 ~ /////////////////////////////////////////////
                 *+-: ... .            .. ..                BIO ————————————————————————————————————————————————————————
@@ -34,8 +49,6 @@
 +#@%##*+-...#%=:=**####*##%%%%*+==++=+*=:..-#*-::-=******** ////////////////////////////////////////////////////////////
 
 ```
-## Contact Me: 
-
 
 <!--
 **noahn06/noahn06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
