@@ -39,6 +39,8 @@ Take a look at the quick links below!
 
 🚀 **Currently Working On:** [Bus Tracker](https://github.com/noahn06/busTracker)
 
+ **Currently Learning: (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3htWCtpgNMoEnv9w4zx4ZaEFZVjd7-uOlZw&s)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 📝 **Read My [Blog](https://noahn06.github.io/noahNguyen/)**
 
 💼 **LinkedIn:** [Noah Nguyen](https://www.linkedin.com/in/nguyennoah/)
