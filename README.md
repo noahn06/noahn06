@@ -38,8 +38,9 @@ Take a look at the quick links below!
 ## 🔗 Quick Links
 
 🚀 **Currently Working On:** 
-[Bus Tracker](https://github.com/noahn06/busTracker)
-[Melt The Ice](https://github.com/smoltafet/melttheice)
+**[Bus Tracker](https://github.com/noahn06/busTracker)**
+
+**[Melt The Ice](https://github.com/smoltafet/melttheice)**
 
 🧠 **Currently Learning:**
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/sites/)
