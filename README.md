@@ -13,7 +13,7 @@ Take a look at the quick links below!
       .... ..........::---+#++#%*::..-:..         ..:      - languages: ............. Java, Python, HTML, CSS, C, LaTeX
       ... . ...:::----:----+#@@%*+====-:::..       ..-     - technologies: ........ Linux, Git, Microsoft Office Suite,
       ... . ...---=--+#%@@@%@@@@@%%%*=::.....     .. .                              Adobe Premiere Pro, Pixlr, VS Code,
-      ... ....:==+#%%@@@@@@@@@@@@@@%%%###+=:......                                  VIM
+      ... ....:==+#%%@@@@@@@@@@@@@@%%%###+=:......                                  VIM, Figma
       ........-=#%%%%#**##%@@@@@@@%%%@%%**+=-:...          - focus: ............. Web-development, Software Engineering
        ......-=*#%%#*-=%   #@@@@@%#%@%=:+   :=:..          - hobbies: .................... Skateboarding, Skate Videos,
        ..++..-=*#%%@%%@@@@@@@@%%%#+#@%#*+-=-==-..                                          Film Photography, Movies,
@@ -37,9 +37,12 @@ Take a look at the quick links below!
 ---
 ## 🔗 Quick Links
 
-🚀 **Currently Working On:** [Bus Tracker](https://github.com/noahn06/busTracker)
+🚀 **Currently Working On:** 
+[Bus Tracker](https://github.com/noahn06/busTracker)
+[Melt The Ice](https://github.com/smoltafet/melttheice)
 
 🧠 **Currently Learning:**
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/sites/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
