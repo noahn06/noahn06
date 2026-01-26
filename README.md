@@ -53,7 +53,7 @@ Take a look at the quick links below!
 
 💼 **LinkedIn:** [Noah Nguyen](https://www.linkedin.com/in/nguyennoah/)
 
-📄 **Resume:** [View/Download](./NguyenNoah.pdf)
+📄 **Resume:** [View/Download](./nguyenNoah.pdf)
 
 📧 **Email Me:** [noahnguyen006@gmail.com](mailto:noahnguyen006@gmail.com)
 
