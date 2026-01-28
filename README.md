@@ -13,7 +13,7 @@ Take a look at the quick links below!
       .... ..........::---+#++#%*::..-:..         ..:      - languages: ............. Java, Python, HTML, CSS, C, LaTeX
       ... . ...:::----:----+#@@%*+====-:::..       ..-     - technologies: ........ Linux, Git, Microsoft Office Suite,
       ... . ...---=--+#%@@@%@@@@@%%%*=::.....     .. .                              Adobe Premiere Pro, Pixlr, VS Code,
-      ... ....:==+#%%@@@@@@@@@@@@@@%%%###+=:......                                  VIM, Figma
+      ... ....:==+#%%@@@@@@@@@@@@@@%%%###+=:......                                  VIM, Figma, Cursor, Antigravity
       ........-=#%%%%#**##%@@@@@@@%%%@%%**+=-:...          - focus: ............. Web-development, Software Engineering
        ......-=*#%%#*-=%   #@@@@@%#%@%=:+   :=:..          - hobbies: .................... Skateboarding, Skate Videos,
        ..++..-=*#%%@%%@@@@@@@@%%%#+#@%#*+-=-==-..                                          Film Photography, Movies,
@@ -41,7 +41,7 @@ Take a look at the quick links below!
 
 **[Bus Tracker](https://github.com/noahn06/busTracker)**
 
-**[Melt The Ice](https://github.com/smoltafet/melttheice)**
+**[My blog](https://noahn06.github.io/noahNguyen/)**
 
 🧠 **Currently Learning:**
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/sites/)
