@@ -39,23 +39,41 @@ Take a look at the quick links below!
 
 🚀 **Currently Working On:** 
 
-**[Bus Tracker](https://github.com/noahn06/busTracker)**
+<a href="https://github.com/noahn06/busTracker" target="blank">
+  <img src="https://img.shields.io/badge/BusTracker-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="BusTracker" />
+</a>
 
-**[My blog](https://noahn06.github.io/noahNguyen/)**
+<a href="https://noahn06.github.io/noahNguyen/" target="blank">
+    <img src="https://img.shields.io/badge/Blog-20232a?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" />
+  </a>
 
 🧠 **Currently Learning:**
+
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/sites/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 
-📝 **Read My [Blog](https://noahn06.github.io/noahNguyen/)**
+### 📈 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noahn06&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahn06&layout=compact&langs_count=7&theme=graywhite" />
+</p>
 
-💼 **LinkedIn:** [Noah Nguyen](https://www.linkedin.com/in/nguyennoah/)
+---
 
-📄 **Resume:** [View/Download](./NguyenNoah.pdf)
-
-📧 **Email Me:** [noahnguyen006@gmail.com](mailto:noahnguyen006@gmail.com)
+### 🤝 Connect Here: 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nguyennoah/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+   <a href="mailto:noahnguyen006@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="./NguyenNoah.pdf" target="blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ---
 
