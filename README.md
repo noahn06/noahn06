@@ -37,22 +37,30 @@ Take a look at the quick links below!
 ---
 ## 🔗 Quick Links
 
-🚀 **Currently Working On:** 
+🚀 **Currently Working On:** 
 
-<a href="https://github.com/noahn06/busTracker" target="blank">
+<a href="https://github.com/noahn06/busTracker" target="_blank">
   <img src="https://img.shields.io/badge/BusTracker-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="BusTracker" />
 </a>
 
-<a href="https://noahn06.github.io/noahNguyen/" target="blank">
-    <img src="https://img.shields.io/badge/Blog-20232a?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" />
-  </a>
+<a href="https://noahn06.github.io/noahNguyen/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-20232a?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" />
+</a>
 
 🧠 **Currently Learning:**
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/sites/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+<a href="https://www.figma.com/sites/" target="_blank">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+</a>
 
 ### 📈 GitHub Stats
 <p align="left">
@@ -62,15 +70,15 @@ Take a look at the quick links below!
 
 ---
 
-### 🤝 Connect Here: 
+### 🤝 Connect Here: 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nguyennoah/" target="blank">
+  <a href="https://www.linkedin.com/in/nguyennoah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="mailto:noahnguyen006@gmail.com" target="blank">
+  <a href="mailto:noahnguyen006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://docs.google.com/document/d/1bAdsqrW4thGRWh6eMb2f79xNVXWU2zw2otXcFrW4ZBU/edit?usp=sharing" target="blank">
+  <a href="https://docs.google.com/document/d/1bAdsqrW4thGRWh6eMb2f79xNVXWU2zw2otXcFrW4ZBU/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
 </p>
