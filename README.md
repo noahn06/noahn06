@@ -56,11 +56,11 @@ Take a look at the quick links below!
 
 ### 📈 GitHub Stats
 <p align="left">
-  <a href="https://github.com/smoltafet" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=smoltafet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/noahn06" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=noahn06&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/smoltafet?tab=repositories" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoltafet&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/noahn06?tab=repositories" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahn06&layout=compact&langs_count=7&theme=graywhite" alt="Top Languages" />
   </a>
 </p>
 
