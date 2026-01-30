@@ -10,10 +10,10 @@ Take a look at the quick links below!
          :     .........                     .....=*       - major: .............................. Computer Engineering
         .    ....:::::.........               .....=       - currentYear: ................................... Sophomore
        .....  ....:....::----=::-:.  ...      .....:       SKILLS —————————————————————————————————————————————————————
-      .... ..........::---+#++#%*::..-:..         ..:      - languages: ............. Java, Python, HTML, CSS, C, LaTeX
-      ... . ...:::----:----+#@@%*+====-:::..       ..-     - technologies: ........ Linux, Git, Microsoft Office Suite,
-      ... . ...---=--+#%@@@%@@@@@%%%*=::.....     .. .                              Adobe Premiere Pro, Pixlr, VS Code,
-      ... ....:==+#%%@@@@@@@@@@@@@@%%%###+=:......                                  VIM, Figma, Cursor, Antigravity
+      .... ..........::---+#++#%*::..-:..         ..:      - languages: ............. Java, Python, HTML, CSS, C, JS
+      ... . ...:::----:----+#@@%*+====-:::..       ..-     - technologies: ........ Linux, Git, VS Code, Antigravity
+      ... . ...---=--+#%@@@%@@@@@%%%*=::.....     .. .                              Adobe Premiere Pro, VIM, Figma
+      ... ....:==+#%%@@@@@@@@@@@@@@%%%###+=:......          
       ........-=#%%%%#**##%@@@@@@@%%%@%%**+=-:...          - focus: ............. Web-development, Software Engineering
        ......-=*#%%#*-=%   #@@@@@%#%@%=:+   :=:..          - hobbies: .................... Skateboarding, Skate Videos,
        ..++..-=*#%%@%%@@@@@@@@%%%#+#@%#*+-=-==-..                                          Film Photography, Movies,
