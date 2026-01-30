@@ -70,7 +70,7 @@ Take a look at the quick links below!
    <a href="mailto:noahnguyen006@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="./NguyenNoah.pdf" target="blank">
+  <a href="https://docs.google.com/document/d/1bAdsqrW4thGRWh6eMb2f79xNVXWU2zw2otXcFrW4ZBU/edit?usp=sharing" target="blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
 </p>
